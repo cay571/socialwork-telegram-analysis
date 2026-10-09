@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Gizli bilgiler
+ayarlar.env
+gizli/
+*.session
+*.session-journal
+
+# Veri
+veri/
+*.parquet
+*.xlsx
