@@ -51,5 +51,59 @@
       "isabet_yuzde": 81.82
     }
   },
-  "kodlayici_uyumu": "insan kodlaması henüz doldurulmamış"
+  "kodlayici_uyumu": {
+    "n": 58,
+    "kappa": 0.713,
+    "uyum_yuzde": 86.2
+  },
+  "ayrisan_satirlar": [
+    {
+      "sira": 7,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": "etkinlik"
+    },
+    {
+      "sira": 58,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": NaN
+    },
+    {
+      "sira": 69,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": "destek çağrısı"
+    },
+    {
+      "sira": 117,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": "etkinlik"
+    },
+    {
+      "sira": 136,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": "etkinlik"
+    },
+    {
+      "sira": 168,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": NaN
+    },
+    {
+      "sira": 221,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": "etkinlik"
+    },
+    {
+      "sira": 240,
+      "kod_claude": "H",
+      "kod": "E",
+      "hangi_sinyal": NaN
+    }
+  ]
 }
