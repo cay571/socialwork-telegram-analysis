@@ -112,16 +112,17 @@ def main():
         k, uyum = kappa(list(ortak["kod_claude"]), list(ortak["kod"]))
         sonuc["kodlayici_uyumu"] = {"n": len(ortak), "kappa": k, "uyum_yuzde": uyum}
         fark = ortak[ortak["kod_claude"] != ortak["kod"]]
-                sonuc["ayrisan_satirlar"] = (
+        sonuc["ayrisan_satirlar"] = (
             fark[["sira", "kod_claude", "kod", "hangi_sinyal"]]
             .fillna({"hangi_sinyal": "sinyal yok"})
             .to_dict("records")
         )
+    else:
         sonuc["kodlayici_uyumu"] = "insan kodlaması henüz doldurulmamış"
 
     LOG_DIR.mkdir(parents=True, exist_ok=True)
     (LOG_DIR / "dogrulama_sonuc.json").write_text(
-                json.dumps(sonuc, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
+        json.dumps(sonuc, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
 
     print(f"Örneklem: {len(poz)} sinyal veren + {len(neg)} sinyal vermeyen")
     print(f"İsabet (geniş ölçüt) : %{p_isabet[0]}  [%{p_isabet[1]} - %{p_isabet[2]}]")
