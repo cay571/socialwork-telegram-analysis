@@ -1,0 +1,18 @@
+{
+  "ortak_satir": 70,
+  "islev_sekiz": {
+    "kappa": 0.59,
+    "uyum_yuzde": 66.7,
+    "n": 66
+  },
+  "islev_dort": {
+    "kappa": 0.674,
+    "uyum_yuzde": 75.8,
+    "n": 66
+  },
+  "konu": {
+    "kappa": 0.233,
+    "uyum_yuzde": 49.2,
+    "n": 65
+  }
+}
