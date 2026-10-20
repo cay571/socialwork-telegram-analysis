@@ -67,7 +67,7 @@
       "sira": 58,
       "kod_claude": "H",
       "kod": "E",
-      "hangi_sinyal": NaN
+      "hangi_sinyal": "sinyal yok"
     },
     {
       "sira": 69,
@@ -91,7 +91,7 @@
       "sira": 168,
       "kod_claude": "H",
       "kod": "E",
-      "hangi_sinyal": NaN
+      "hangi_sinyal": "sinyal yok"
     },
     {
       "sira": 221,
@@ -103,7 +103,7 @@
       "sira": 240,
       "kod_claude": "H",
       "kod": "E",
-      "hangi_sinyal": NaN
+      "hangi_sinyal": "sinyal yok"
     }
   ]
 }
