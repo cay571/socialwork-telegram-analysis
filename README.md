@@ -74,6 +74,7 @@ The scripts read from and write to a folder named `loglar`, and the figures scri
 | Thematic group shares by year, and the correspondence between the two mobilisation series | `logs/ucgenleme.json` | `13_konu_ucgenleme.py` |
 | Codebook, including the collapsed four-category scheme | `codebook/` | — |
 | Stop-word list | `codebook/durak_kelimeler.txt` | — |
+| Marginal topic and function distributions of the two coders | `logs/konu_marjinal.json` | `06c_konu_marjinal.py` |
 
 ## What is not here, and why
 
