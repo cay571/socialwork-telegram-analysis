@@ -1,0 +1,186 @@
+{
+  "konu": {
+    "kaynak_makine": "claude_islev_konu.csv",
+    "kaynak_insan": "islev_konu_insan.xlsx",
+    "ortak_satir": 69,
+    "gecerli_satir": 65,
+    "kodlayici_1_ilk_tur": {
+      "n": 65,
+      "dagilim": [
+        {
+          "kategori": "istihdam",
+          "n": 30,
+          "yuzde": 46.2
+        },
+        {
+          "kategori": "belirsiz",
+          "n": 13,
+          "yuzde": 20.0
+        },
+        {
+          "kategori": "sinav_puan",
+          "n": 6,
+          "yuzde": 9.2
+        },
+        {
+          "kategori": "grup_ici",
+          "n": 5,
+          "yuzde": 7.7
+        },
+        {
+          "kategori": "egitim_akademik",
+          "n": 4,
+          "yuzde": 6.2
+        },
+        {
+          "kategori": "ozluk_mevzuat",
+          "n": 4,
+          "yuzde": 6.2
+        },
+        {
+          "kategori": "toplumsal_olay",
+          "n": 2,
+          "yuzde": 3.1
+        },
+        {
+          "kategori": "uygulama_vaka",
+          "n": 1,
+          "yuzde": 1.5
+        }
+      ]
+    },
+    "kodlayici_2_bagimsiz": {
+      "n": 65,
+      "dagilim": [
+        {
+          "kategori": "istihdam",
+          "n": 42,
+          "yuzde": 64.6
+        },
+        {
+          "kategori": "grup_ici",
+          "n": 9,
+          "yuzde": 13.8
+        },
+        {
+          "kategori": "belirsiz",
+          "n": 7,
+          "yuzde": 10.8
+        },
+        {
+          "kategori": "sinav_puan",
+          "n": 4,
+          "yuzde": 6.2
+        },
+        {
+          "kategori": "ozluk_mevzuat",
+          "n": 1,
+          "yuzde": 1.5
+        },
+        {
+          "kategori": "toplumsal_olay",
+          "n": 1,
+          "yuzde": 1.5
+        },
+        {
+          "kategori": "uygulama_vaka",
+          "n": 1,
+          "yuzde": 1.5
+        }
+      ]
+    },
+    "ilk_siradaki_ayni_mi": true
+  },
+  "islev": {
+    "kaynak_makine": "claude_islev_konu.csv",
+    "kaynak_insan": "islev_konu_insan.xlsx",
+    "ortak_satir": 70,
+    "gecerli_satir": 66,
+    "kodlayici_1_ilk_tur": {
+      "n": 66,
+      "dagilim": [
+        {
+          "kategori": "degerlendirme",
+          "n": 20,
+          "yuzde": 30.3
+        },
+        {
+          "kategori": "bilgi_talebi",
+          "n": 14,
+          "yuzde": 21.2
+        },
+        {
+          "kategori": "bilgi_verme",
+          "n": 12,
+          "yuzde": 18.2
+        },
+        {
+          "kategori": "mobilizasyon",
+          "n": 10,
+          "yuzde": 15.2
+        },
+        {
+          "kategori": "sohbet",
+          "n": 8,
+          "yuzde": 12.1
+        },
+        {
+          "kategori": "diger",
+          "n": 1,
+          "yuzde": 1.5
+        },
+        {
+          "kategori": "duygu_destek",
+          "n": 1,
+          "yuzde": 1.5
+        }
+      ]
+    },
+    "kodlayici_2_bagimsiz": {
+      "n": 66,
+      "dagilim": [
+        {
+          "kategori": "bilgi_verme",
+          "n": 19,
+          "yuzde": 28.8
+        },
+        {
+          "kategori": "bilgi_talebi",
+          "n": 14,
+          "yuzde": 21.2
+        },
+        {
+          "kategori": "mobilizasyon",
+          "n": 13,
+          "yuzde": 19.7
+        },
+        {
+          "kategori": "degerlendirme",
+          "n": 12,
+          "yuzde": 18.2
+        },
+        {
+          "kategori": "diger",
+          "n": 2,
+          "yuzde": 3.0
+        },
+        {
+          "kategori": "duygu_destek",
+          "n": 2,
+          "yuzde": 3.0
+        },
+        {
+          "kategori": "duyuru",
+          "n": 2,
+          "yuzde": 3.0
+        },
+        {
+          "kategori": "sohbet",
+          "n": 2,
+          "yuzde": 3.0
+        }
+      ]
+    },
+    "ilk_siradaki_ayni_mi": false
+  }
+}
