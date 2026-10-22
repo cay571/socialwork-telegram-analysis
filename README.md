@@ -20,7 +20,7 @@ Four different totals appear in the article, each belonging to a different stage
 | 131,466 | Text set after deduplication | Function classification, time series |
 | 102,771 | Messages long enough for embedding | Topic model |
 
-The response analysis uses 131,441 messages, 25 fewer than the deduplicated set, because messages without a resolvable position in a reply chain are excluded.
+The response analysis uses 131,441 messages, 25 fewer than the deduplicated set, because messages posted in the final seven days of collection had limited opportunity to receive a reply and are excluded.
 
 ## Running the scripts
 
