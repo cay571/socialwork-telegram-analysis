@@ -87,7 +87,7 @@ The scripts read from and write to a folder named `loglar`, and the figures scri
 
 ## Ethics
 
-The study was approved by the Scientific Research and Publication Ethics Committee for Social Sciences and Humanities of Akdeniz University (E-55578142-050.99-1615425, 30 July 2026).
+The study was approved by the Scientific Research and Publication Ethics Committee for Social Sciences and Humanities of xxxx University.
 
 ## Licence
 
