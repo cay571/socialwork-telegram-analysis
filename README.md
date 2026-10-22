@@ -8,8 +8,7 @@ This repository is the replication package for the article. It contains every sc
 
 **Employment, Peer Support, and Advocacy in an Online Social Work Community: A Computational Text Analysis of 135,000 Messages from Türkiye**
 
-Murat Çay, Akdeniz University, Vocational School of Social Sciences, Department of Social Work and Counselling, Antalya, Türkiye. ORCID [0000-0003-4659-4687](https://orcid.org/0000-0003-4659-4687).
-
+***
 ## How the message counts fit together
 
 Four different totals appear in the article, each belonging to a different stage of processing. They are not alternative counts of the same thing.
